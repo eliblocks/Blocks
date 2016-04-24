@@ -1,0 +1,32 @@
+html {
+	font-size: 30px;
+	font-family: Verdana;
+}
+html {
+	background-color: #2EC6AC;
+}
+
+body {
+	width: 600px;
+	margin: 0 auto;
+	background-color: #DFF0DA;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+	margin: 0px;
+	padding: 20 px, 0;
+	color: #2EC6AC;
+	text-shadow: 3px 3px 1px black;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	width: 500px;
+	height: 500px;
+}
+
